@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tiger-survey/static/css/main.3a2e6b86.css",
+    "main.js": "/tiger-survey/static/js/main.269e1cc4.js",
+    "index.html": "/tiger-survey/index.html",
+    "main.3a2e6b86.css.map": "/tiger-survey/static/css/main.3a2e6b86.css.map",
+    "main.269e1cc4.js.map": "/tiger-survey/static/js/main.269e1cc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a2e6b86.css",
+    "static/js/main.269e1cc4.js"
+  ]
+}
